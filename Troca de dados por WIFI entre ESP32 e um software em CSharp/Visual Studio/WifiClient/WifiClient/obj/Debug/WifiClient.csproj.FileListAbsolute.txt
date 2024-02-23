@@ -1,0 +1,22 @@
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\bin\Debug\WifiClient.exe.config
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\bin\Debug\WifiClient.exe
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\bin\Debug\WifiClient.pdb
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.AssemblyReference.cache
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.SuggestedBindingRedirects.cache
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.Properties.Resources.resources
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.GenerateResource.cache
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.CoreCompileInputs.cache
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.exe
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.pdb
+C:\Anderson\Projetos\Visual Studio\Testes\WifiClient\WifiClient\obj\Debug\WifiClient.Form1.resources
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\bin\Debug\WifiClient.exe.config
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\bin\Debug\WifiClient.exe
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\bin\Debug\WifiClient.pdb
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.AssemblyReference.cache
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.SuggestedBindingRedirects.cache
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.Form1.resources
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.Properties.Resources.resources
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.GenerateResource.cache
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.csproj.CoreCompileInputs.cache
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.exe
+C:\Anderson\Projetos\Troca de dados por WIFI entre ESP32 e um software em CSharp\Visual Studio\WifiClient\WifiClient\obj\Debug\WifiClient.pdb
